@@ -1,4 +1,4 @@
-# first
-This is my first repository
+#Stepcom
+A concierge AI Agent for GenZ
 <br>
 Author - Munazza F
