@@ -62,4 +62,4 @@ People don’t need big plans - they need small steps delivered with emotional i
 Stepcom makes productivity feel human.
 
 ## Author
-**Munazzah Fatima**
+**Munazza Fatima**
