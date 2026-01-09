@@ -1,4 +1,4 @@
-# Stepcom – Your AI Productivity Companion 🤖  
+# Stepcom - Your AI Productivity Companion 🤖  
 ### A Concierge AI Agent for Procrastination
 
 **Agents Intensive – Capstone Project**  
