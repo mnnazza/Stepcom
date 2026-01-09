@@ -1,4 +1,4 @@
-# StepCom – Your AI Productivity Companion 🤖  
+# Stepcom – Your AI Productivity Companion 🤖  
 ### A Concierge AI Agent for Procrastination
 
 **Agents Intensive – Capstone Project**  
@@ -6,7 +6,7 @@
 
 ## Overview
 
-StepCom is an AI productivity companion designed for Gen Z users who struggle with procrastination, emotional overwhelm, and difficulty starting tasks. Unlike traditional productivity apps filled with dashboards and manual tracking, Stepcom works entirely through **natural conversation**.
+Stepcom is an AI productivity companion designed for Gen Z users who struggle with procrastination, emotional overwhelm, and difficulty starting tasks. Unlike traditional productivity apps filled with dashboards and manual tracking, Stepcom works entirely through **natural conversation**.
 
 The goal is simple: make progress feel easy, human, and achievable.
 
